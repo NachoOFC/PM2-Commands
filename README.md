@@ -1,6 +1,6 @@
 # PM2 Commands Reference Guide
 
-Una guía rápida y directa con los comandos esenciales de PM2 para la gestión, monitoreo y persistencia de procesos en entornos de producción.
+Una guía rápida y directa con los comandos esenciales de PM2 para la gestión, monitoreo y persistencia de procesos en entornos de producción. puedes usar estos comandos en conjunto con docker 
 
 ## ¿Qué es PM2?
 
